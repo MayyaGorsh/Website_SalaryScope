@@ -23,7 +23,7 @@ The data was obtained from the following official sources and processed in the n
 ## App Launch
 
 Access the deployed app here:  
-**[task_analytics Streamlit App](https://mvp-in-data-science-mayya-gorsh-salary-statictics.streamlit.app/)**
+**[Streamlit App](https://mvp-in-data-science-mayya-gorsh-salary-statictics.streamlit.app/)**
 
 To run locally:
 
