@@ -7,7 +7,7 @@ The project is structured in two main stages:
 - **Stage 1**: Data analysis and visualization in Jupyter Notebook (`analytics` folder)  
 - **Stage 2**: Development of an **interactive web application** using **Streamlit** (`app` folder)  
 
-The datasets used for analysis are stored in the `data` folder.
+![image](https://github.com/user-attachments/assets/4deb5050-66eb-49fa-bca7-6ba7895e7180)
 
 ## Data Sources
 
